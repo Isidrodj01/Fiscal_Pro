@@ -1,0 +1,50 @@
+.modal-header{
+    background: #9E0606;
+    margin: auto;
+    border-radius: 0px 0px 20px 20px;
+
+}
+.modal-header h5{
+    color:white;
+    font-weight: 300;
+
+}
+
+.footer-text{
+    color: white;
+    font-size: 18px;
+}
+
+.myForm{
+    padding: 10px;
+    box-shadow: 0px 0px 6px #0F0101;
+
+}
+
+.myForm h2{
+    color: #9E0606;
+}
+
+/* TODO EL CODIGO PARA EL LOGIN */
+
+.myForm-login{
+    padding: 10px;
+}
+.myForm-login label{
+    color:  blue;
+}
+
+.myForm-login input[type="text"], .myForm-login input[type="password"]{
+    border: none;
+    border-bottom: 1px solid blue;
+
+}
+
+.btn-Login
+{
+    width: 50%;
+}
+
+
+/* FIN DEL LOGIN */
+
